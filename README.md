@@ -1,3 +1,7 @@
+## Note 
+
+Since the resulting model-specific files are too large, we uploaded them to a public [OneDrive](https://1drv.ms/f/c/6f8f2f993c06db24/IgDaUrD2q06sTrSBVHHqeB2-AdgZs8nXBqAUeug322l8N9M?e=2VcrXO) to make them accessible. If you want to use them, download and add them under the `models/` folder. 
+
 # Data Mining Project — Flight Price Regression
 
 This repository contains a series of Jupyter notebooks that build, train, and evaluate regression models (Baseline, Linear/Regularized, KNN, Random Forest, XGBoost, Neural Network) to predict flight prices ([subset from this dataset](https://www.kaggle.com/datasets/dilwong/flightprices)). The workflow is organized into numbered notebooks from preprocessing to final evaluation.
